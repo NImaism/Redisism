@@ -1,2 +1,18 @@
-# Redisism
-Sample In Memory Database With Concurrency
+<p align="center">
+  <h1 align="center">
+      Sample In Memory Database (Redisism)
+  </h1>
+  <h3 align="center">
+     Version 1.0
+  </h3>
+  <h4 align="center">
+      If you would like to report an issue or request a feature. Direct In My <a href="https://instagram.com/nima._.ism">Instagram</a> or create an issue.
+  </h4>
+</p>
+
+<br/>
+<br/>
+
+
+## Support
+* Direct In My [Instagram](https://instagram.com/nima._.ism) for Support or open an issue via GitHub.
